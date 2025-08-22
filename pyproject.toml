@@ -21,7 +21,7 @@ dependencies = [
   "playwright",
   "pydantic >= 2.11, <3",
   "pydantic-settings",
-  "datasets >= 4.0.0"
+  "datasets >=3.2.0"
 ]
 
 [dependency-groups]
